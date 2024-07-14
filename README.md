@@ -65,7 +65,7 @@ A classical neural network was trained on the same dataset to benchmark the perf
 
 - PennyLane Variational Classifier Tutorial: [link](https://pennylane.ai/qml/demos/tutorial_variational_classifier/)
 - PennyLane Data Re-uploading Classifier Tutorial: [link](https://pennylane.ai/qml/demos/tutorial_data_reuploading_classifier/)
-- B.Sc. Thesis mentioned by the course supervisor: [link](https://pergamos.lib.uoa.gr/uoa/dl/object/3393917/file.pdf)
+- B.Sc. Thesis: [link](https://pergamos.lib.uoa.gr/uoa/dl/object/3393917/file.pdf)
 
 ## Author
 
